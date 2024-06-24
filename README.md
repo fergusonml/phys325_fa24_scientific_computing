@@ -72,3 +72,21 @@ Note: The textbook is optional.  Approximately 1/2 of the class material is base
 (The first few chapters are freely available https://websites.umich.edu/~mejn/cp/.)
 
 ### Course schedule:
+
+Weekly topic	Lecture dates	Exams / Project deadlines
+1	Intro + Python basics	Aug 20, 22	Lab begins.
+2	Python basics	Aug 27,29	HW 1 due on Friday
+3	Numpy + Matplotlib	Sep 3, 5	Hw 2 due on Friday
+4	Numerical accuracy	Sep 10, 12	Hw 3 due on Friday
+5	Integration	Sep 17, 19	Sep 20 (Fri): Exam 1; Hw4 = exam notes
+6	Integr. + Linear algebra	Sep 24, 26	
+7	Linear algebra	Oct 1, 3	Hw 5 due on Friday, mid-semester check-in
+8	Lin. Alg. + Data Analyses	Oct 8, 10	Hw 6 due on Friday
+9	Data Analyses	Oct 15, 17	Oct 18 (Fri): Exam 2; Hw 7 = exam notes
+10	Minimizations	Oct 22, 24	
+11	Nonlinear equations and ordinary differential ...	Oct 29, 31	Oct 28 (Mon): project proposal due\nNov 1 (Fri...
+12	ODEs	Nov 5, 7	Mon: project checkpoint #1 due\nFri: Hw 9 due
+13	Monte Carlo	Nov 12, 14	Mon: project checkpoint #2 due\nNov 15 (Fri): ...
+14	Thanksgiving break		
+15	Monte Carlo	Nov 26, 28	Nov 29 (Fri): project checkpoint #3 due
+16	Project presentations + Mathematica(or Sympy?)	Dec 3, 5	No lab
