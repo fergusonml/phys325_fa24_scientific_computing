@@ -70,11 +70,3 @@ Note: The textbook is optional.  Approximately 1/2 of the class material is base
 "Computational Physics” by Mark Newman
 
 (The first few chapters are freely available https://websites.umich.edu/~mejn/cp/.)
-9	Data Analyses	Oct 15, 17	Oct 18 (Fri): Exam 2; Hw 7 = exam notes
-10	Minimizations	Oct 22, 24	
-11	Nonlinear equations and ordinary differential ...	Oct 29, 31	Oct 28 (Mon): project proposal due\nNov 1 (Fri...
-12	ODEs	Nov 5, 7	Mon: project checkpoint #1 due\nFri: Hw 9 due
-13	Monte Carlo	Nov 12, 14	Mon: project checkpoint #2 due\nNov 15 (Fri): ...
-14	Thanksgiving break		
-15	Monte Carlo	Nov 26, 28	Nov 29 (Fri): project checkpoint #3 due
-16	Project presentations + Mathematica(or Sympy?)	Dec 3, 5	No lab
