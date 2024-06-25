@@ -55,15 +55,15 @@ In the last week of class, your team will give a \~10 slide oral presentation (\
 
 ### Grading:
 
-Labs: 10x15=150 (15%)
+Labs: 10x10=100 (15%)
 
-Homework: 10x25=250 (25%)
+Homework: 7x30+3x5=225 (25%)
 
-Three exams: 3x150=450 (45%)
+Three exams: 3x50=150 (45%)
 
-Final project: 1x150 (15%)
+Final project: 1x85=85 (15%)
 
-Total: 1000 pts
+Total: 560 pts
 
 Note: The textbook is optional.  Approximately 1/2 of the class material is based on
 
